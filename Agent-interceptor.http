@@ -1,0 +1,6 @@
+@Agent_interceptor_HostAddress = http://localhost:5288
+
+GET {{Agent_interceptor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
